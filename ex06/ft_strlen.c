@@ -12,7 +12,7 @@
 
 #include <unistd.h>
 
-void	ft_strlen(char *str)
+int	ft_strlen(char *str)
 {
 	int index;
 	int c;
