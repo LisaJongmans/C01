@@ -2,4 +2,4 @@
 
 DELETE MAINS, CHECK FUNCTIONS, DEL COMPILED FILES
 
-ex07 > check whether you need > or >= in the while loop
+Sommige zijn nog fout, zoals ex06. Voor check altijd de final version gebruiken.
