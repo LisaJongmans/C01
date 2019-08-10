@@ -15,16 +15,11 @@
 int	ft_strlen(char *str)
 {
 	int index;
-	int c;
-
+	
 	index = 0;
-	c = 1;
 	while (str[index] != '\0')
-	{
-		c++;
 		index++;
-	}
-	return (c);
+	return (index);
 }
 
 int		main()
